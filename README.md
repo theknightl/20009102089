@@ -2,7 +2,7 @@
 作业库
 # 1、digitalRead()
 ```base
-
+更改
 Description(函数描述)
 
 Reads the value from a specified digital pin, either or .HIGH LOW
